@@ -1,0 +1,23 @@
+h1 {
+    color:red;
+    font-style: italic;
+    padding: 0 3px;
+    margin: 40px;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: 5px6px;
+    background-color: aqua;
+    flex-direction: column;
+    width: 50%;
+    position: absolute;
+}
+.form-control{
+    padding: 0px1px;
+
+
+}
